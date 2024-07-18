@@ -1,6 +1,5 @@
 # start.me
-DOMAIN,start.com
-DOMAIN,start.me
+DOMAIN-SUFFIX,start.me
 
 # vpn
-DOMAIN,mxwljsq.xyz
+DOMAIN-SUFFIX,mxwljsq.xyz
