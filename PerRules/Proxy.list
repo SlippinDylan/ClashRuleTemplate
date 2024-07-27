@@ -19,6 +19,9 @@ DOMAIN-SUFFIX,dereferenced.org
 DOMAIN-SUFFIX,infraroot.at
 DOMAIN-SUFFIX,immortalwrt.org
 DOMAIN-SUFFIX,jing.rocks
+DOMAIN-SUFFIX,2f30.org
+DOMAIN-SUFFIX,musl.libc.org
+DOMAIN-SUFFIX,quantum-mirror.hu
 
 #Apple Apple 家庭 homekit
 DOMAIN-SUFFIX,icloud-content.com
