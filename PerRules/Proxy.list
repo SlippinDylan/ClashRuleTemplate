@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,start.me
 # vpn
 DOMAIN-SUFFIX,mxwljsq.xyz
 
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-KEYWORD,plex
+
 # 编译op
 DOMAIN-SUFFIX,sourceware.org
 DOMAIN-SUFFIX,busybox.net
@@ -23,16 +26,3 @@ DOMAIN-SUFFIX,2f30.org
 DOMAIN-SUFFIX,musl.libc.org
 DOMAIN-SUFFIX,quantum-mirror.hu
 DOMAIN-SUFFIX,fastlydns.net
-
-#plex
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-KEYWORD,plex
-
-#Apple Apple 家庭 homekit
-#DOMAIN-SUFFIX,icloud-content.com
-#DOMAIN-SUFFIX,gateway.icloud.com
-#DOMAIN-SUFFIX,icloud.com
-#DOMAIN-SUFFIX,homekit.apple.com
-#DOMAIN-SUFFIX,push.apple.com
-#DOMAIN-SUFFIX,apple.cloudkit.com
-#DOMAIN-SUFFIX,apple.com
