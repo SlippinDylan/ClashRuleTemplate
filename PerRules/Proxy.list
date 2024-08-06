@@ -32,3 +32,6 @@ DOMAIN-SUFFIX,fastlydns.net
 #DOMAIN-SUFFIX,push.apple.com
 #DOMAIN-SUFFIX,apple.cloudkit.com
 #DOMAIN-SUFFIX,apple.com
+
+#plex
+DOMAIN-SUFFIX,plex.tv
