@@ -25,10 +25,10 @@ DOMAIN-SUFFIX,quantum-mirror.hu
 DOMAIN-SUFFIX,fastlydns.net
 
 #Apple Apple 家庭 homekit
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,gateway.icloud.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,homekit.apple.com
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN-SUFFIX,apple.cloudkit.com
+#DOMAIN-SUFFIX,icloud-content.com
+#DOMAIN-SUFFIX,gateway.icloud.com
+#DOMAIN-SUFFIX,icloud.com
+#DOMAIN-SUFFIX,homekit.apple.com
+#DOMAIN-SUFFIX,push.apple.com
+#DOMAIN-SUFFIX,apple.cloudkit.com
 #DOMAIN-SUFFIX,apple.com
