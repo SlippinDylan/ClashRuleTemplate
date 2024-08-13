@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,start.me
 # vpn
 DOMAIN-SUFFIX,mxwljsq.xyz
 
+DOMAIN-SUFFIX,test-ipv6.com
+
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,telghub.com
