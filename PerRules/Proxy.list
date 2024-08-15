@@ -4,8 +4,14 @@ DOMAIN-SUFFIX,start.me
 # vpn
 DOMAIN-SUFFIX,mxwljsq.xyz
 
+# 磁力
+DOMAIN-SUFFIX,clm37.asia
+DOMAIN-KEYWORD,clm37
+
+# ipv6测试
 DOMAIN-SUFFIX,test-ipv6.com
 
+# PLEX
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-KEYWORD,plex
 DOMAIN-SUFFIX,telghub.com
@@ -29,5 +35,6 @@ DOMAIN-SUFFIX,2f30.org
 DOMAIN-SUFFIX,musl.libc.org
 DOMAIN-SUFFIX,quantum-mirror.hu
 DOMAIN-SUFFIX,fastlydns.net
+
 
 DOMAIN-KEYWORD,claude
