@@ -1,9 +1,9 @@
 # 内网直连规则
-SRC-IP-CIDR,10.10.0.22/32,DIRECT
+SRC-IP-CIDR,10.10.0.22/32
 
 # HomeKit 相关规则
-DOMAIN-SUFFIX,hap.apple.com,DIRECT
-DOMAIN-SUFFIX,homekit.apple.com,DIRECT
-DOMAIN,hap-storage.apple.com,DIRECT
-DOMAIN-SUFFIX,icloud.com,DIRECT
-IP-CIDR,17.0.0.0/8,DIRECT
+DOMAIN-SUFFIX,hap.apple.com
+DOMAIN-SUFFIX,homekit.apple.com
+DOMAIN,hap-storage.apple.com
+DOMAIN-SUFFIX,icloud.com
+IP-CIDR,17.0.0.0/8
