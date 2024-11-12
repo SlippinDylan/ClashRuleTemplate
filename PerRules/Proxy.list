@@ -38,3 +38,6 @@ DOMAIN-SUFFIX,fastlydns.net
 
 # dev
 DOMAIN-SUFFIX,warp.dev
+
+# Alpine
+DOMAIN-KEYWORD,alpinelinux
