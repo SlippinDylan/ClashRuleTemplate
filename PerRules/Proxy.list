@@ -41,3 +41,8 @@ DOMAIN-SUFFIX,warp.dev
 
 # Alpine
 DOMAIN-KEYWORD,alpinelinux
+IP-CIDR,151.101.90.132/32,no-resolve
+IP-CIDR,155.248.196.28/32,no-resolve
+IP-CIDR,74.50.98.131/32,no-resolve
+IP-CIDR,51.81.226.229/32,no-resolve
+IP-CIDR,108.61.73.244/32,no-resolve
